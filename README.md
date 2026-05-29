@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://pythonbeginner.help">
+    <img src="https://pythonbeginner.help/brand/logo-horizontal.png" alt="Python Beginner Help" width="440">
+  </a>
+</p>
+
 # Python Beginner Exercises 🏋️🐍
 
 > Small, runnable practice exercises for new Python programmers — each with a built-in self-check and a worked solution.
