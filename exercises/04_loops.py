@@ -1,6 +1,6 @@
 """Exercise 04 — Loops.
 
-Tutorial: https://pythonbeginner.help/learn/
+Tutorial: https://pythonbeginner.help/learn/python-for-loops-explained/
 
 TODO: using a loop,
   1. Build `squares` = [0, 1, 4, 9, 16] (squares of 0..4).

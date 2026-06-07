@@ -1,6 +1,6 @@
 """Exercise 05 — Functions.
 
-Tutorial: https://pythonbeginner.help/learn/
+Tutorial: https://pythonbeginner.help/learn/python-functions-explained/
 
 TODO:
   1. Write `greet(name)` that returns "Hello, <name>!".

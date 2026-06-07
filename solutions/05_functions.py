@@ -1,4 +1,4 @@
-"""Solution 05 — Functions.  https://pythonbeginner.help/learn/"""
+"""Solution 05 — Functions.  https://pythonbeginner.help/learn/python-functions-explained/"""
 
 
 def greet(name):

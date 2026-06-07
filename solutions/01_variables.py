@@ -1,4 +1,4 @@
-"""Solution 01 — Variables & types.  https://pythonbeginner.help/learn/"""
+"""Solution 01 — Variables & types.  https://pythonbeginner.help/learn/python-variables-explained-for-beginners/"""
 
 name = "Ada"
 age = 36

@@ -1,6 +1,6 @@
 """Exercise 02 — String methods & slicing.
 
-Tutorial: https://pythonbeginner.help/learn/
+Tutorial: https://pythonbeginner.help/learn/python-strings-explained-basics-and-examples/
 
 TODO: given `phrase`, produce:
   1. `shout`  -> the phrase in UPPERCASE

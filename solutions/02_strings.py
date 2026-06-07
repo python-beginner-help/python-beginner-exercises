@@ -1,4 +1,4 @@
-"""Solution 02 — String methods & slicing.  https://pythonbeginner.help/learn/"""
+"""Solution 02 — String methods & slicing.  https://pythonbeginner.help/learn/python-strings-explained-basics-and-examples/"""
 
 phrase = "python is fun"
 

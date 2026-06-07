@@ -1,6 +1,6 @@
 """Exercise 03 — Lists.
 
-Tutorial: https://pythonbeginner.help/learn/
+Tutorial: https://pythonbeginner.help/learn/python-lists-explained-beginner-guide/
 
 TODO: starting from `nums`:
   1. Append the number 5.

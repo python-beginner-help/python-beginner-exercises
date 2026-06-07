@@ -1,4 +1,4 @@
-"""Solution 04 — Loops.  https://pythonbeginner.help/learn/"""
+"""Solution 04 — Loops.  https://pythonbeginner.help/learn/python-for-loops-explained/"""
 
 squares = []
 for i in range(5):

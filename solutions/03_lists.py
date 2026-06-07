@@ -1,4 +1,4 @@
-"""Solution 03 — Lists.  https://pythonbeginner.help/learn/"""
+"""Solution 03 — Lists.  https://pythonbeginner.help/learn/python-lists-explained-beginner-guide/"""
 
 nums = [3, 1, 2]
 

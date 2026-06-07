@@ -1,6 +1,6 @@
 """Exercise 01 — Variables & types.
 
-Tutorial: https://pythonbeginner.help/learn/
+Tutorial: https://pythonbeginner.help/learn/python-variables-explained-for-beginners/
 
 TODO:
   1. Create a variable `name` holding your name as a string.
